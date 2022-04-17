@@ -1,6 +1,10 @@
 # Douglas Barreto Zanata, 26 💻
 <h3>System of Information - UEMS/BR 📌</h3>
 
+<br/>
+<img src="https://media.giphy.com/media/SUny11sUznwAyo8D2P/giphy.gif" width="300">   
+<br/>
+
  <div>
   <a href="https://github.com/ttiozinho00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttiozinho00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
